@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # [Start Bootstrap - Resume](https://startbootstrap.com/theme/resume/)
 
 [Resume](https://startbootstrap.com/theme/resume/) is a resume and CV theme for [Bootstrap](https://getbootstrap.com/) created by [Start Bootstrap](https://startbootstrap.com/). This theme features a fixed sidebar with content sections to build a simple, yet elegant resume.
@@ -67,3 +68,6 @@ Start Bootstrap is based on the [Bootstrap](https://getbootstrap.com/) framework
 ## Copyright and License
 
 Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-resume/blob/master/LICENSE) license.
+=======
+Welcome 😁
+>>>>>>> 85a5d9e4b218a4f523229821b50ffa85899b9a2b
