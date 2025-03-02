@@ -1,0 +1,97 @@
+[33mcommit e5aab31787c9b420b284c2680950d7b67be9bbe4[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Author: georgios <g.xanthopoulos@student.vu.nl>
+Date:   Fri Feb 28 16:30:19 2025 +0100
+
+    about section finished, fixed p colrs
+
+[33mcommit 67bb4e19c59f1fec9c4abd52da3d51edb75e3343[m
+Author: Georgios Xanthopoulos <g.xanthopoulos@student.vu.nl>
+Date:   Sun Oct 13 01:01:46 2024 +0200
+
+    Change h1 and subheading colors
+
+[33mcommit afb030ec5993daa9ad5042fa2ccc1c86a93d2345[m
+Author: Georgios Xanthopoulos <g.xanthopoulos@student.vu.nl>
+Date:   Sun Oct 13 00:02:03 2024 +0200
+
+    Change icons and sidebar color
+
+[33mcommit 52354b536fd57d77a29bf8637b92de7ef2e8069d[m
+Author: Georgios Xanthopoulos <g.xanthopoulos@student.vu.nl>
+Date:   Fri Oct 11 18:32:23 2024 +0200
+
+    update html script and rm profile
+
+[33mcommit 0ab02547b85ee6ad8a4b7e84802c0b7777905f67[m
+Author: Georgios Xanthopoulos <g.xanthopoulos@student.vu.nl>
+Date:   Wed Oct 9 23:57:35 2024 +0200
+
+    moved files from dist to root
+
+[33mcommit 321b2fbc0d5dd15cc3e491bb95049d334c403678[m
+Author: Georgios Xanthopoulos <g.xanthopoulos@student.vu.nl>
+Date:   Wed Oct 9 23:55:21 2024 +0200
+
+    move index.html to dist
+
+[33mcommit fdbfba5b64c2b8687c2fe23f5c0e0104fdc1363f[m
+Author: Georgios Xanthopoulos <g.xanthopoulos@student.vu.nl>
+Date:   Wed Oct 9 23:53:32 2024 +0200
+
+    index.html
+
+[33mcommit 104b7bec01a05bcfdb51aa36f13d997652bd893e[m
+Author: Georgios Xanthopoulos <g.xanthopoulos@student.vu.nl>
+Date:   Wed Oct 9 23:50:02 2024 +0200
+
+    Remove README.md
+
+[33mcommit 12c0412af51b87b4b34e08e44b4555eb7d9d61b5[m
+Merge: 61aaf68 d26e53c
+Author: Georgios Xanthopoulos <g.xanthopoulos@student.vu.nl>
+Date:   Wed Oct 9 23:45:31 2024 +0200
+
+    Move index.html to root
+
+[33mcommit 61aaf687951f4bd108468eba1ab5084d5fbb4eef[m
+Author: Georgios Xanthopoulos <g.xanthopoulos@student.vu.nl>
+Date:   Wed Oct 9 23:44:13 2024 +0200
+
+    Move index.html to root
+
+[33mcommit d26e53c7b87f27f2e59eda9d948a8efa6739ab31[m
+Author: Georgios Xanthopoulos <122273704+gxanth@users.noreply.github.com>
+Date:   Wed Oct 9 23:41:08 2024 +0200
+
+    Delete index.html
+
+[33mcommit 45cea8edd2315637d3807fefa0b05020d359d87f[m
+Author: Georgios Xanthopoulos <122273704+gxanth@users.noreply.github.com>
+Date:   Wed Oct 9 23:37:06 2024 +0200
+
+    Update README.md
+
+[33mcommit 43b91c54f58024c8643d671c7cfd3a10a3dba1b4[m
+Merge: 8bfb0ce 85a5d9e
+Author: Georgios Xanthopoulos <g.xanthopoulos@student.vu.nl>
+Date:   Wed Oct 9 23:31:23 2024 +0200
+
+    Add StartBootstrap resume template
+
+[33mcommit 8bfb0ce2e4bf713ad47ff1ab0ec3cb89747a201a[m
+Author: Georgios Xanthopoulos <g.xanthopoulos@student.vu.nl>
+Date:   Wed Oct 9 23:30:05 2024 +0200
+
+    Add StartBootstrap resume template
+
+[33mcommit 85a5d9e4b218a4f523229821b50ffa85899b9a2b[m
+Author: Georgios Xanthopoulos <122273704+gxanth@users.noreply.github.com>
+Date:   Wed Oct 9 18:51:16 2024 +0200
+
+    Create README.md
+
+[33mcommit 126a664c02c04be63620013f5a25d7c030319192[m
+Author: Georgios Xanthopoulos <g.xanthopoulos@student.vu.nl>
+Date:   Wed Oct 9 18:07:51 2024 +0200
+
+    Intital commit
